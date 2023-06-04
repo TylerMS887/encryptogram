@@ -35,7 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   material3_layout: ^0.0.7
-  material_color_utilities: ^0.2.0
+  material_color_utilities: ^0.3.0
   collection: ^1.17.1
   matcher: ^0.12.15
   source_span: ^1.9.1
