@@ -8,7 +8,7 @@ A Flutter app that acts as a client to [Encryptogram](https://encryptogram.co.uk
 
 Remember to install [Dart](https://dart.dev/get-dart) and [Flutter](https://docs.flutter.dev/get-started/install) first.
 
-1. Run `git clone https://github.com/encryptogram/encryptogram`
+1. Run `git clone https://github.com/encryptogram/encryptogram-flutter`
 2. Run `cd encryptogram`
 3. Run:
     * `flutter run` to run on Android/iOS if one is setup for Flutter development, running without Android or iOS device connected will result in a selection menu to choose which platform you want to use
