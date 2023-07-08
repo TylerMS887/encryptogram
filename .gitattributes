@@ -1,0 +1,3 @@
+*.html linguist-language=Dart
+*.cc linguist-language=Dart
+*.swift linguist-language=Dart
