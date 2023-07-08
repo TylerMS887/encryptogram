@@ -1,4 +1,9 @@
-*.html linguist-language=Dart
-*.swift linguist-language=Dart
+web/* linguist-generated
+ios/* linguist-generated
+android/* linguist-generated
+linux/* linguist-generated
+macos/* linguist-generated
+windows/* linguist-generated
+test/* linguist-generated
 */CMakeLists.txt linguist-generated
 *.cmake linguist-generated
